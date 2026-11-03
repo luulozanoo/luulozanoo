@@ -56,10 +56,6 @@ Soy estudiante de **Ingeniería Matemática e Inteligencia Artificial** en la **
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=luulozanoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luulozanoo&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-
 ## 📫 Conecta conmigo
 
 <div align="center">
