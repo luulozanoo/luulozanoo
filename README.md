@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lucía%20Lozano&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Matemáticas%20%C3%97%20Inteligencia%20Artificial&descAlignY=60&descSize=20" width="100%" />
 
 <a href="https://github.com/luulozanoo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2C8FBF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ing.+Matem%C3%A1tica+e+IA+%40+ICAI;Me+gusta+entender+los+datos+de+verdad;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2C8FBF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ing.+Matem%C3%A1tica+e+IA+%40+ICAI;Planteandome+nuevos+proyectos;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
